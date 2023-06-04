@@ -9,7 +9,11 @@
 			"extensions": [
 				"JuanBlanco.solidity",
 				"RemixProject.ethereum-remix",
-				"dbaeumer.vscode-eslint"
+				"dbaeumer.vscode-eslint",
+				"esbenp.prettier-vscode",
+				"jeremyrajan.webpack",
+				"mgmcdermott.vscode-language-babel",
+				"Orta.vscode-jest"
 			]
 		}
 	}
